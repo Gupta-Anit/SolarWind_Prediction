@@ -1,0 +1,8 @@
+wget
+numpy
+h5py
+matplotlib
+scikit-learn
+tensorflow
+keras
+jupyter

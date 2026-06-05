@@ -1,0 +1,17 @@
+# Python / Jupyter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+venv/
+
+# Downloaded PSI MHD data (fetched via ExtractData.py)
+br_file/
+vr_file/
+br002_file/
+vr002_file/
+*.hdf
+
+# Saved models
+*.h5
